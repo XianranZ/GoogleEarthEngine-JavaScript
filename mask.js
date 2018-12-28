@@ -1,3 +1,6 @@
+//author: xianranzhang
+//date: 2018-12-28
+
 //locate the point
 var nanjingPoint = /* color: #d63000 */ee.Geometry.Point([118.7786, 32.0438]);
 
